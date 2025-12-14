@@ -1,0 +1,5 @@
+{
+  "name": "ZenCountdown Desktop Widget",
+  "description": "A semi-transparent, customizable countdown timer widget designed to sit on your desktop. Features opacity control, multiple countdowns, and deployment instructions for converting to a native Windows executable.",
+  "requestFramePermissions": []
+}
